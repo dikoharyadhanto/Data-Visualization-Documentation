@@ -11,3 +11,19 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 
 1. Membuat Line Chart Trend Pertumbuhan GMV
 2. Fungsi .plot() pada pandas Dataframe
+
+## [Notebook 2D - Kustomisasi Grafik](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/e49d6a9a5d65659d528fafab80ca7505b4a134d4/002-Kustomisasi_Grafik.ipynb)
+
+**Content:**
+
+1. Anatomi dari Figure
+2. Mengubah Figure Size
+3. Menambahkan Title and Axis Labels
+4. Kustomisasi Title and Axis Labels
+5. Kustomisasi Line dan Point
+6. Kustomisasi Grid
+7. Kustomisasi Axis Ticks
+8. Menentukan Batas Minimum dan Maksimum Axis Ticks
+9. Menyimpan Hasil Plot Menjadi File Image
+10. Pengaturan Parameter untuk Menyimpan Gambar
+11. Studi Kasus: Daily number of customers on Desember
