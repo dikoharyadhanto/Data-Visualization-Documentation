@@ -27,3 +27,13 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 9. Menyimpan Hasil Plot Menjadi File Image
 10. Pengaturan Parameter untuk Menyimpan Gambar
 11. Studi Kasus: Daily number of customers on Desember
+
+## [Notebook 3D - Multi Line Chart](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/5b1a3117141899cb8ed962c8e8ac84bd80db9e2a/003_Multi_Line_Chart.ipynb)
+
+**Content:**
+
+1. Membuat Multi-Line Chart
+2. Kustomisasi Legend
+3. Kustomisasi Colormap
+4. Membuat Line Chart GMV Breakdown by Top Provinces
+5. Membuat Anotasi
