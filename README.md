@@ -1,4 +1,4 @@
-# Data Visualization Documentation
+# DATA VISUALIZATION DOCUMENTATION
 Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 
 <p align="center">
