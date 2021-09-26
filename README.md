@@ -37,3 +37,13 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 3. Kustomisasi Colormap
 4. Membuat Line Chart GMV Breakdown by Top Provinces
 5. Membuat Anotasi
+
+## [Notebook 4D - Pie Chart, Bar Chart, & Stacked Chart](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/c3425632960849e6fcd8ed00c712d634adf3934b/004-Pie_Bar_Stacked_Chart.ipynb)
+
+**Content:**
+
+1. Membuat Pie Chart
+2. Membuat Bar Chart
+3. Membuat Multi-Bar Chart
+4. Membuat Stacked Chart
+5. Membuat Anotasi
