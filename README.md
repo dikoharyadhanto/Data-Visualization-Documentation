@@ -47,3 +47,10 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 3. Membuat Multi-Bar Chart
 4. Membuat Stacked Chart
 5. Membuat Anotasi
+
+## [Notebook 5D - Histogram & Scatter Plot](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/1c1e04e8afbbb110507cf5fb890cb73216a18988/005-Histogram_Scatter_Plot.ipynb)
+
+**Content:**
+
+1. Membuat Histogram
+2. Membuat Scatterplot
