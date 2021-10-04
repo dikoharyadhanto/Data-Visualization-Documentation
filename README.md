@@ -55,6 +55,15 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 1. Membuat Histogram
 2. Membuat Scatterplot
 
+## [Notebook 6D - Introduction to Matplotlib and Line Plots](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/91e98f5fb0c701a3e7fbcd5274b74cbb530f5d2e/DV0101EN-1-1-1-Introduction-to-Matplotlib-and-Line-Plots.ipynb)
+
+**Content:**
+
+1. Exploring Datasets with pandas 
+2. Matplotlib.Pyplot
+3. Plotting in pandas
+4. Line Pots (Series/Dataframe)
+
 ## Data Visualization Project
 
 ### [Data Visualization Project 1](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/2d2963eca59980463b6c344cee48066f461a47ea/Data_Visualization_Project_1.ipynb)
