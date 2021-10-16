@@ -64,6 +64,14 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 3. Plotting in pandas
 4. Line Pots (Series/Dataframe)
 
+## [Notebook 7D - Area Plots, Histograms, and Bar Plots](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/50fbafa681f25df98359409bf5a3b78c5faaf140/DV0101EN-2-2-1-Area-Plots-Histograms-and-Bar-Charts-py-v2.0.ipynb)
+
+**Content:**
+
+1. Area Plots
+2. Histograms
+3. Bar Charts (Dataframe)
+
 ## Data Visualization Project
 
 ### [Data Visualization Project 1](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/2d2963eca59980463b6c344cee48066f461a47ea/Data_Visualization_Project_1.ipynb)
