@@ -90,6 +90,14 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 2. Word Clouds
 3. Regression Plots
 
+## [Notebook 10D - Generating Maps with Python](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/a9c1335d3b3c330fae8e567c4a81de87227fdd78/DV0101EN-3-5-1-Generating-Maps-in-Python-py-v2.0.ipynb)
+
+**Content:**
+
+1. Introduction Folium
+2. Map Style in Folium
+3. Choropleth Maps
+
 ## Data Visualization Project
 
 ### [Data Visualization Project 1](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/2d2963eca59980463b6c344cee48066f461a47ea/Data_Visualization_Project_1.ipynb)
