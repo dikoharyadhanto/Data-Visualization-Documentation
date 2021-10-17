@@ -96,7 +96,8 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 
 1. Introduction Folium
 2. Map Style in Folium
-3. Choropleth Maps
+3. Maps with Markers
+4. Choropleth Maps
 
 ## Data Visualization Project
 
