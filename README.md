@@ -82,6 +82,24 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 4. Scatter Plots
 5. Bubble Plots
 
+## [Notebook 8D - Pie Charts, Box Plots, Scatter Plots, and Bubble Plots](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/cff8672f0639bb15de6aa78bdde06e8ad6d432fa/DV0101EN-2-3-1-Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots-py-v2.0.ipynb)
+
+**Content:**
+
+1. Pie Charts
+2. Box Plots
+3. Subplots
+4. Scatter Plots
+5. Bubble Plots
+
+## [Notebook 9D - Waffle Charts, Word Clouds, and Regression Plots](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/79f911650fe79b1594d946e65f881729160e5dc8/DV0101EN-3-4-1-Waffle-Charts-Word-Clouds-and-Regression-Plots-py-v2.0.ipynb)
+
+**Content:**
+
+1. Waffle Charts
+2. Word Clouds
+3. Regression Plots
+
 ## Data Visualization Project
 
 ### [Data Visualization Project 1](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/2d2963eca59980463b6c344cee48066f461a47ea/Data_Visualization_Project_1.ipynb)
