@@ -112,6 +112,14 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 6. Pie Chart
 7. Sunburst Charts
 
+### [Notebook 12D - Dash_Basics_HTML_and_Core_Components](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/17bafa934cb948893deeefd82fdaa2116dcae4b8/Dash_basics_HTML_and_core_components.ipynb)
+
+**Content:**
+
+1. Update the html.H1() tag
+2. Update the html.P() tag
+3. Update figure parameter of dcc.Graph()
+
 ## Data Visualization Project
 
 ### [Data Visualization Project 1](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/2d2963eca59980463b6c344cee48066f461a47ea/Data_Visualization_Project_1.ipynb)
