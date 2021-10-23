@@ -99,6 +99,19 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 3. Maps with Markers
 4. Choropleth Maps
 
+## Creating Dashboard with Plotly and Dash
+### [Notebook 11D - Basic Plotly Charts](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/474fdfd1bcd78f55d667d2deb4dc2f333dbd88aa/4.3_Plotly_Basics.ipynb)
+
+**Content:**
+
+1. Scatter Plot
+2. Line Plot
+3. Bar Chart
+4. Bubble Chart
+5. Histogram
+6. Pie Chart
+7. Sunburst Charts
+
 ## Data Visualization Project
 
 ### [Data Visualization Project 1](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/2d2963eca59980463b6c344cee48066f461a47ea/Data_Visualization_Project_1.ipynb)
