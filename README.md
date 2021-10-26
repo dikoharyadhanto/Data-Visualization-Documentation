@@ -114,11 +114,7 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 
 ### [Python File 1D - Dash_Basics](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/93a3ac24663eed1c7642b49bb3c12e729b455eb6/dash_basics.py)
 
-**Content:**
-
-1. Update the html.H1() tag
-2. Update the html.P() tag
-3. Update figure parameter of dcc.Graph()
+### [Python File 2D - Dash_Basics]()
 
 ## Data Visualization Project
 
