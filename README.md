@@ -114,7 +114,7 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 
 ### [Python File 1D - Dash_Basics](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/93a3ac24663eed1c7642b49bb3c12e729b455eb6/dash_basics.py)
 
-### [Python File 2D - Dash_Basics]()
+### [Python File 2D - Dash_Interactivity](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/241b345eace77010596f7b0ec959497d688e4b8c/dash_interactivity.py)
 
 ## Data Visualization Project
 
