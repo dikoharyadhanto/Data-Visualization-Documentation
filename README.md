@@ -112,7 +112,7 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 6. Pie Chart
 7. Sunburst Charts
 
-### [Notebook 12D - Dash_Basics_HTML_and_Core_Components](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/17bafa934cb948893deeefd82fdaa2116dcae4b8/Dash_basics_HTML_and_core_components.ipynb)
+### [Python File 1D - Dash_Basics](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/93a3ac24663eed1c7642b49bb3c12e729b455eb6/dash_basics.py)
 
 **Content:**
 
