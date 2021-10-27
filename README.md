@@ -120,7 +120,7 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 
 ### [Python File 4D - Dash_Auto: Practice Exercise](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/00f483a192b0098b33805dfc99068f3a7f211237/Dash_Auto.py)
 
-### [Python File 5D - Dash_Auto: Practice Exercise](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/00f483a192b0098b33805dfc99068f3a7f211237/Dash_Auto.py)
+### [Python File 5D - Flight Details](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/4169c4a39a394d30a1883d637b06d044e0b1f8e8/flight_details.py)
 
 
 ## Data Visualization Project
