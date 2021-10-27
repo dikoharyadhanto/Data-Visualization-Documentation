@@ -126,3 +126,5 @@ Dokumentasi Pembelajaran Visualisasi Data dengan Matplotlib, Seaborn, dll.
 ## Data Visualization Project
 
 ### [Data Visualization Project 1](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/2d2963eca59980463b6c344cee48066f461a47ea/Data_Visualization_Project_1.ipynb)
+
+### [Data Visualization Project 2](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/a85c2b817c944ed4e393ca3f27a4030c39e59a1c/5_Peer_Graded_Assignment_Questions.py)
